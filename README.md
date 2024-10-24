@@ -58,6 +58,7 @@ Exemple de modification :
 - Blanc
 - Bleu
 - Noir
+- Vert
 ~~~
 
 Réponse :
